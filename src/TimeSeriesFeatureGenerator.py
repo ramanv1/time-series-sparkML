@@ -2,7 +2,7 @@
 """
 Created on Mon Dec  3 08:29:47 2018
 
-@author: Owner
+@author: Vinay Raman, PhD
 """
 
 import numpy as np
